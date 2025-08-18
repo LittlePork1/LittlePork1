@@ -4,13 +4,14 @@
 
 **🔭 I’ve recently finished working on:**
 
-    Go-Fast: A custom FiveM script that [briefly describe what it does, e.g., enables fast-paced getaway scenarios].
-    Mission_CarDealer: A FiveM script where car dealers can take on side jobs to deliver random vehicles to clients.
+    🌿 Developing my first complete FiveM job script — **QBX-TABAC**, a tobacco job for QBX Core with harvesting, processing, and selling mechanics.
+    🌮 QBX-TACOS: A custom Taco Hut job for QBX Core featuring crafting systems for tacos and drinks, interactive zones with ox_target, animations, and a full job progression.
 
 **🌱 I’m currently learning:**
 
     Improving my skills in Lua and QbCore for more advanced FiveM scripts.
     Expanding my basic Python knowledge for small tasks and automation.
+
 
 **⚡ Fun fact:**
 
