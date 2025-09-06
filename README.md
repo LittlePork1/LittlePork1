@@ -1,18 +1,21 @@
-# **👋 Hi there, I'm LittlePork1!**
-
-## I'm a hobbyist developer who codes in my free time, creating projects that I enjoy and find fun. My main focus is on FiveM, where I develop custom Lua scripts using the QbCore framework. I also have experience with HTML, CSS, and basic Python.
-
-**🔭 I’ve recently finished working on:**
-
-    🌿 Developing my first complete FiveM job script — **QBX-TABAC**, a tobacco job for QBX Core with harvesting, processing, and selling mechanics.
-    🌮 QBX-TACOS: A custom Taco Hut job for QBX Core featuring crafting systems for tacos and drinks, interactive zones with ox_target, animations, and a full job progression.
-
-**🌱 I’m currently learning:**
-
-    Improving my skills in Lua and QbCore for more advanced FiveM scripts.
-    Expanding my basic Python knowledge for small tasks and automation.
+# 💫 About Me:
+# 👋 Hi there, I'm **LittlePork1**!  <br><br>I'm a **hobbyist developer** who codes in my free time, creating projects that I enjoy and find fun.  <br>My main focus is on **FiveM**, where I develop **custom Lua scripts** using the **QbCore framework**.  <br>I also have experience with 🌐 **HTML**, 🎨 **CSS**, and 🐍 **basic Python**.  <br><br>---<br><br>## 🔭 Projects I've Worked On  <br><br>🌿 **QBX-TABAC**  <br>A complete FiveM job script for **QBX Core** featuring:  <br>- 🚜 Harvesting  <br>- 🏭 Processing  <br>- 💰 Selling mechanics  <br><br>🌮 **QBX-TACOS**  <br>A custom Taco Hut job for **QBX Core** with:  <br>- 🌮 Crafting systems for tacos & drinks  <br>- 🎯 Interactive zones with **ox_target**  <br>- 🎭 Animations  <br>- 📈 Full job progression  <br><br>---<br><br>##🌱 Currently Learning  <br><br>📚 Improving my **Lua** & **QbCore** skills for more advanced scripts  <br>🐍 Expanding my **Python** knowledge for small tasks and automation  <br><br>---<br><br>##⚡ Fun Fact  <br><br>I code what I like ❤️ and love the process of creating new scripts for the **FiveM community**!  <br>
 
 
-**⚡ Fun fact:**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LittlePork1&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LittlePork1&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LittlePork1&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-    I code what I like and love the process of creating new scripts for the FiveM community!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LittlePork1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LittlePork1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LittlePork1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
